@@ -1,0 +1,8 @@
+{
+  "name": "Adhani",
+  "description": "Modern Islamic utility app with prayer times, Qibla compass, Hijri calendar, and Adhkar in a signature liquid glass design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
